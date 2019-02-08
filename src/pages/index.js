@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Official tesseralis fan site</h1>
     <p>Welcome to the official tesseralis fan club.</p>
     <p>Praise me.</p>
+    <p>Here you can praise the beautiful, talented genius that is tesseralis</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
