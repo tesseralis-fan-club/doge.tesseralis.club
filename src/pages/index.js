@@ -10,11 +10,8 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Official tesseralis fan site</h1>
     <p>Welcome to the official tesseralis fan club.</p>
-<<<<<<< HEAD
     <p>Praise me.</p>
-=======
     <p>Here you can praise the beautiful, talented genius that is tesseralis</p>
->>>>>>> e257b7f5040d41c739bece8c0e172ff0ccd93f88
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
