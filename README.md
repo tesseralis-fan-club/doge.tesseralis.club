@@ -5,12 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Tessarlis Fan Club Official Site
+  Tesseralis Fan Club Official Site
 </h1>
 
-This is the official fan club of @tesseralis, aka Nat Alison
+This is the official fan club of [@tesseralis](https://tessera.li), aka Nat Alison.
 
-## 🚀 Quick start
+## Quick start
 
 1.  **Create a Gatsby site.**
 
@@ -38,7 +38,7 @@ This is the official fan club of @tesseralis, aka Nat Alison
 
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🧐 What's inside?
+## What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
